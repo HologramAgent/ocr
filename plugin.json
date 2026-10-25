@@ -1,0 +1,15 @@
+{
+  "author": "HologramAgent",
+  "auto_start": false,
+  "description": "图片文字识别工具，基于 Tesseract OCR 引擎。支持从 URL 或 base64 图片中提取文字内容。",
+  "entry": "plugin.bin",
+  "name": "ocr",
+  "name_en": "OCR Text Recognition",
+  "name_zh": "OCR 文字识别",
+  "tags": [
+    "ocr",
+    "image",
+    "text"
+  ],
+  "version": "1.0.0"
+}
